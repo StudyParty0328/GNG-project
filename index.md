@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 글닐기 프로젝트(GNG Project)
 
-You can use the [editor on GitHub](https://github.com/StudyParty0328/gng-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+독서 기록을 남기고, 기록을 기반으로 책을 추천해주는 서비스입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 서비스
 
-### Markdown
+- iOS: TBU
+- Web: TBU
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 독서 기록 관리하기 (v1.0)
 
-```markdown
-Syntax highlighted code block
+책 정보와 사진(선택), 해시태그 내용으로 독서 기록을 남깁니다.
 
-# Header 1
-## Header 2
-### Header 3
+### 책 추천 (v2.0)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StudyParty0328/gng-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+독서 기록을 기반으로 책을 추천합니다.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+서비스에 문제가 있거나 도움이 필요한 사항이 있다면 studyparty0328@gmail.com으로 연락부탁드립니다.
